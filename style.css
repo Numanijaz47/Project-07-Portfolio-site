@@ -1,7 +1,0 @@
-@import "tailwindcss";
-.divider {
-    margin: 0 4px;
-    color: gray;
-    opacity: 60%;
-    border-radius: 60%;
-}
